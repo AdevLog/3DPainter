@@ -23,4 +23,4 @@ To-do
 
 Contact
 --------
-If you are interested in our software product, please contact us.
+If you are interested in our software product, please contact us. Email: 	nm6101072@gs.ncku.edu.tw
