@@ -8,7 +8,7 @@ This is an implementation based on: *Glass Area Detection and Linear Interpolati
 
 Features
 --------
-* Filling the masked region to a flat surface (plane).
+* Filling the masked region to create a flat surface (plane).
 * Show depth images in Jet color.
 * Support batch processing.
 
